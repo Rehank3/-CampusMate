@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+google-genai
+python-dotenv
+requests
+streamlit
+pymupdf
+python-docx
+pytesseract
+pillow
