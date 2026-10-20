@@ -18,7 +18,6 @@ CampusMate is a student assignment management application designed to help stude
 - FastAPI
 - Streamlit
 - SQLite
-- Google Gemini API
 - PyMuPDF
 - python-docx
 
