@@ -28,3 +28,8 @@ CampusMate is a student assignment management application designed to help stude
 ```bash
 git clone https://github.com/Rehank3/-CampusMate.git
 cd -CampusMate
+## Future Improvements
+
+- Improve assignment filtering and search.
+- Add automated tests for backend APIs.
+- Improve error handling and input validation.
